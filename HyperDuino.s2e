@@ -23,7 +23,7 @@
 		],
 
 		["w",
-		"Move Foward At Speed: %n",
+		"Move Foward at Speed: %n",
 		"runDigital",
 		"255",
 		{
@@ -36,7 +36,7 @@
 		],
 
 		["w",
-		"Move Backward At Speed: %n",
+		"Move Backward at Speed: %n",
 		"digitalWrite",
 		"255",
 		{
@@ -48,7 +48,7 @@
 		}
 		],
 		["w",
-		"Left Turn At Speed: %n",
+		"Left Turn at Speed: %n",
 		"runDigital3",
 		"255",
 		{
@@ -60,7 +60,7 @@
 		}
 		],
 		["w",
-		"Right Turn At Speed: %n",
+		"Right Turn at Speed: %n",
 		"runDigital4",
 		"255",
 		{
